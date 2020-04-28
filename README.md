@@ -7,7 +7,7 @@ https://nodejs.org/en/
 or
 https://nodejs.org/en/download/
 
-Step 1 -  After downloading node js create a js file that is going to perform the copying activity.
+Step 1 -  After downloading node js create a js file that is going to perform the copying activity. 
 Step 2 - After creating a js file make the batch(.bat) file of that js.
 Note- batch means an executable file that runs on a terminal.
 Step 3 - After creating a batch file then create a .vbs file that is going to run a batch file without opening the terminal. 
