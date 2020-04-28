@@ -6,6 +6,8 @@ links -
 https://nodejs.org/en/
 or
 https://nodejs.org/en/download/
+install package - 1 npm install usb-detection 
+                  2 npm install fs-extra
 
 Step 1 -  After downloading node js create a js file that is going to perform the copying activity. 
 Step 2 - After creating a js file make the batch(.bat) file of that js.
